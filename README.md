@@ -4,6 +4,8 @@
 
 ## Welcome! 👋
 
+View the completed project here: https://jonaszdecember7-lab.github.io/testimonials-grid-section-main/
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
